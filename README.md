@@ -7,13 +7,13 @@ Aplicación web instalable (PWA) para guardar recetas y calcular masas con porce
 - Lista de recetas con búsqueda y filtro (Todas, Panificados, Generales).
 - Calculadora por peso total o por unidades (cantidad × gramos por unidad).
 - Cualquier cantidad en gramos se puede editar y el resto se recalcula.
-- Sub-recetas (por ejemplo, Poolish dentro de TocaPizza) con desglose y harina total.
+- Sub-recetas con desglose y harina total.
 - Ingredientes fijos fuera del porcentaje (por ejemplo, 1 huevo) y notas.
 - Recetas generales con cantidades, pasos y escalado por porciones.
 - Editor con reordenamiento arrastrando desde la manija.
 - Versión de escritorio: lista a la izquierda y receta a dos columnas (desde 960 px de ancho).
 - Sincronización con una planilla de Google, con vinculación de dispositivos por código QR.
-- Exportar e importar un archivo `.json`. Acepta también el archivo de la app anterior.
+- Exportar e importar un archivo `.json`.
 - Modo claro y oscuro.
 
 ## Estructura
